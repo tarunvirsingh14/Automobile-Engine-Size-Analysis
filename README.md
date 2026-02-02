@@ -25,8 +25,6 @@ The dataset (`imports-85.csv`) is from the UCI Machine Learning Repository and c
 * City and highway MPG
 * Compression ratio, bore, stroke
 
-## 🧮 How to Run
-
 
 ## 📈 Results
 
